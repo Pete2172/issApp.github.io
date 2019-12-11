@@ -1,0 +1,17 @@
+.data{
+    background: rgb(14, 143, 182);
+    border-radius: 10px;
+    max-width: 190px;
+    float: center;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+p {
+    background: rgb(34, 33, 33);
+    margin-bottom: 1px;
+    border: solid 2px;
+    float: center;
+}
+
